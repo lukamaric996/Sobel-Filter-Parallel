@@ -1,2 +1,2 @@
 # Sobel-Filter-Parallel
-Parallel and Sequental implementaion of sobel filter in C
+Parallel and Sequental implementation of sobel filter in C
